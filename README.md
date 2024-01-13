@@ -2,12 +2,12 @@
 
     public class ExecutionStarter {
         public static void main(String[] args) {
-            Hello Task1 = new Hello();
-            HelloSlava Task2 = new HelloSlava();
-            EveryThirdElement Task3 = new EveryThirdElement();
-            Task1.outputHello();
-            Task2.nameVerification();
-            Task3.outputEveryThirdElement();
+            Hello task1 = new Hello();
+            HelloSlava task2 = new HelloSlava();
+            EveryThirdElement task3 = new EveryThirdElement();
+            task1.outputHello();
+            task2.nameVerification();
+            task3.outputEveryThirdElement();
         }
     }
 
